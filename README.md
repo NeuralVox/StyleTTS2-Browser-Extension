@@ -1,2 +1,2 @@
-# StyleTTS2-Browser-Extension
-Browser extension for StyleTTS 2
+# StyleTTS 2 Chrome Extension
+
